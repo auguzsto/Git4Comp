@@ -13,3 +13,9 @@ O exemplo do GitFlow dado anteriormente é apenas um de muitos existentes. Logo,
 # Créditos
 
 He4rt Developers: [Git4Noobs](https://github.com/DanielHe4rt/git4noobs/)
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/guidev115"><img src="https://avatars.githubusercontent.com/u/43139846s=400&u=6bac6a6234ef66010d20155fe57f3aca53bd2cb4&v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Fabricio</b></sub></a><br />
+  </tr>
+</table>
