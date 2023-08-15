@@ -43,7 +43,7 @@
 
 1. [Conclusão](/conclusao.md/)
 
-This project follows the [all-contributors]
+Todos Contribuidores
 
 <table>
   <tr>
